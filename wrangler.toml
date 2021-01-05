@@ -1,0 +1,7 @@
+name = "sam"
+type = "webpack"
+account_id = "ed2c2efd7296b1730d245efb9bb4d677"
+workers_dev = true
+route = ""
+zone_id = ""
+webpack_config = "webpack.config.js"
